@@ -1,11 +1,79 @@
-{"users": [
-    
+{
+  "users": [
+
   ],
-  "posts": [
-    { "id": 1, "title": "json-server22", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "posts": [{
+    "id": 1,
+    "title": "竹筍燒雞便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto01.jpg"
+  }, {
+    "id": 2,
+    "title": "酥炸肉排便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto02.jpg"
+  },{
+    "id": 3,
+    "title": "大阪蜜汁燒便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto04.jpg"
+  },{
+    "id": 4,
+    "title": "香煎鱸魚排便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto04.jpg"
+  },{
+    "id": 5,
+    "title": "醬燒豬肉豆腐捲便當",
+    "category": "熱門冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto05.jpg"
+  },{
+    "id": 6,
+    "title": "韓式炸雞便當",
+    "category": "熱門冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto06.jpg"
+  },{
+    "id": 7,
+    "title": "味噌鯖魚便當",
+    "category": "熱門冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto07.jpg"
+  },{
+    "id": 8,
+    "title": "韓式牛肉拌飯冷便當",
+    "category": "熱門冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto08.jpg"
+  },{
+    "id": 9,
+    "title": "玉米漢堡飯糰便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto09.jpg"
+  },{
+    "id": 10,
+    "title": "腐乳雞翅便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto10.jpg"
+  },{
+    "id": 11,
+    "title": "韓式燒肉便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto11.jpg"
+  },{
+    "id": 12,
+    "title": "孜然翅腿便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto12.jpg"
+  },{
+    "id": 13,
+    "title": "橙汁魚片便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto13.jpg"
+  },{
+    "id": 14,
+    "title": "菠菜鮮蝦義大利麵便當",
+    "category": "一周冷便當",
+    "img":"https://github.com/arista-hsieh/project/blob/gh-pages/assets/images/banto14.jpg"
+  }],
+  "bookmarks": [
+
+  ]
 }
